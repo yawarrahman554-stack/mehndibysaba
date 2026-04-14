@@ -6,7 +6,7 @@ This is the official repository for the [Mehndi By Sabu](https://mehndibysabu.co
 ## 📌 Business Overview
 - **Artist:** Sabu
 - **Specialty:** Organic, chemical-free henna for Brides, Engagements, and Parties.
-- **Location:** Bengaluru, India (Available for travel).
+- **Location:** Beerwah Budgam
 - **Contact:** [+91 96826 56861](https://wa.me/919682656861)
 
 ## 💰 Service Tiers
